@@ -20,7 +20,7 @@ Activitat 2: vista de Windows.
 2. Anem a al panell de control i seleccionem dispositius i impressores.
 ![](panelcontrolç.JPG)
 
-3. Li hem fet click dret a la nostra impressora i li donem a propietats de la impressora.
+3. Li hem fet clic dret a la nostra impressora i li donem a propietats de la impressora.
 ![](Captura3.JPG)
 
 4. Anem a ús compartit i activem la opció comparteix aquesta impressora, i canviem el nom del recurs compartit, li donem a aplicar i acceptar. <br>
