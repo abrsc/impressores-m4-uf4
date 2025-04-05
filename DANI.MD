@@ -12,8 +12,6 @@ Activitat 1: vista de Windows.
 4. Seleccionem imprimeix una pàgina de prova per fer una prova, i li donem a finalitzar.
 ![](Captura8.JPG)
 
-5. 
-![](
 
 Activitat 2: vista de Windows. 
 1. Hem Instal·lat PDF creator:
