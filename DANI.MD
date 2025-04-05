@@ -1,5 +1,19 @@
 IMPRESSORES <br>
 Activitat 1: vista de Windows.
+1. Anema al panell de control i seleccionem dispositius i impressores.
+![](panelcontrolç.JPG)
+
+2. Li donem a afegeix una impressora
+![](Captura12.JPG)
+
+3. Seleccionem la impressora de Linux i li donem en seguent.
+![](Captura7.JPG)
+
+4. Seleccionem imprimeix una pàgina de prova per fer una prova, i li donem a finalitzar.
+![](Captura8.JPG)
+
+5. 
+![](
 
 Activitat 2: vista de Windows. 
 1. Hem Instal·lat PDF creator:
