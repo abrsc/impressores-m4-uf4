@@ -1,4 +1,6 @@
 IMPRESSORES
-Activitat 2:
-Instalar PDF creator:  https://educaciodigital.cat/iesaballester/moodle/course/view.php?id=1865
+Activitat 1: vista de Windows.
+
+Activitat 2: vista de Windows. 
+1. Hem Instal·lat PDF creator:
 ![](Captura.JPG)
