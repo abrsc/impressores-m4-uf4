@@ -1,4 +1,4 @@
-IMPRESSORES
+IMPRESSORES <br>
 Activitat 1: vista de Windows.
 
 Activitat 2: vista de Windows. 
