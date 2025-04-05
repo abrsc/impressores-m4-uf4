@@ -1,4 +1,5 @@
 # IMPRESSORA -----> SOLUCIÓ
+Activitat de Grup, estem el grup 4 amb Arno i Daniel
 ## Activitat 1: vista de Linux.
 1. Hem creat una impressora amb cups i configurat cups seguint [aquest tutorial](https://github.com/XaSaFa/MP04/blob/main/uf3/compartir_impresora_linux.md) de l'apartat 1 a 5. <br>
 ![alt text](image.png)
