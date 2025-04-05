@@ -11,4 +11,5 @@ Activitat 2: vista de Windows.
 3. Li hem fet click dret a la nostra impressora i li donem a propietats de la impressora.
 ![](Captura3.JPG)
 
-4. 
+4. Anem a ús compartit i activem la opció comparteix aquesta impresorra, i canviem el nom del recurs compartit, li donem a aplicar i acceptar.
+![](Captura4.JPG)
