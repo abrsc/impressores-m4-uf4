@@ -1,6 +1,6 @@
 IMPRESSORES <br>
 Activitat 1: vista de Windows.
-1. Anema al panell de control i seleccionem dispositius i impressores.
+1. Anem al panell de control i seleccionem dispositius i impressores.
 ![](panelcontrolç.JPG)
 
 2. Li donem a afegeix una impressora
@@ -23,5 +23,5 @@ Activitat 2: vista de Windows.
 3. Li hem fet click dret a la nostra impressora i li donem a propietats de la impressora.
 ![](Captura3.JPG)
 
-4. Anem a ús compartit i activem la opció comparteix aquesta impresorra, i canviem el nom del recurs compartit, li donem a aplicar i acceptar. <br>
+4. Anem a ús compartit i activem la opció comparteix aquesta impressora, i canviem el nom del recurs compartit, li donem a aplicar i acceptar. <br>
 ![](Captura4.JPG)
