@@ -46,7 +46,7 @@ Activitat de Grup, estem el grup 4 amb Arno i Daniel
 5. Hem ficat un nom a la impressora. <br>
 ![alt text](image-9.png)
 6. Hem ficat el model i afegit la impressora. <br>
-![alt text](image-13.png)
+![image](https://github.com/user-attachments/assets/1da82291-bd14-47f5-80ef-e0a1dbb5c16b)
 ![alt text](image-11.png)
 7. Aquí imprimem una pàgina de prova. <br>
 ![alt text](image-15.png)
